@@ -1,16 +1,7 @@
 # dark_mode
 
-A new Flutter project.
+This is a dark mode implementation that i am gonna use in my future proyects. This repository gonna have all the steps to implement it, and by this reason this repository has to be easy to undertand.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# IMPORTANT 
+- This repository is just my progress learning.
+- I´m gonna recopilate information from diferente files and video tutorial, and herre gonna stay the best way to do it for me. 
